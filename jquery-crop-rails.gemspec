@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Jquery::Crop::Rails::VERSION
   spec.authors       = ["James Zhan"]
   spec.email         = ["zhiqiangzhan@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Jcrop for rails}
+  spec.summary       = %q{Jcrop for rails}
   spec.homepage      = ""
   spec.license       = "MIT"
 
